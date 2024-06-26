@@ -60,6 +60,13 @@ def process_chat_log(input_file, output_directory, images_directory):
                 'saturday': 'शनि का सच'
             }.get(day_of_week, day_of_week)
 
+            # Add specific tags based on full_title
+            tags = [day_based_tag]
+            if 'प्रतिदिन' in full_title:
+                tags.append('प्रतिदिन')
+            if 'घूमता आईना' in full_title:
+                tags.append('घूमता आईना')
+
             length_category = get_length_category(content)
 
             filename = f"{date_time.strftime('%Y-%m-%d')}-{title.replace(' ', '-')}.md"
