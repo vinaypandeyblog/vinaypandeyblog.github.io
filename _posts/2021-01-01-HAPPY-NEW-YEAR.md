@@ -14,5 +14,5 @@ Wish you a Luxurious Life
 ........बस शुक्र ही शुक्र हो
 
 
-![IMG-20210101-WA0021.jpg](/images/IMG-20210101-WA0021.jpg))
+![IMG-20210101-WA0021.jpg](/images/IMG-20210101-WA0021.jpg)
 

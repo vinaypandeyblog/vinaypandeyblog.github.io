@@ -59,7 +59,7 @@ def process_chat_log(input_file, output_directory, images_directory):
             matching_images = get_matching_images(date_time, images_directory)
             image_markdown = ""
             for img in matching_images:
-                image_markdown += f"\n![{os.path.basename(img)}](/images/{os.path.basename(img)}))\n"
+                image_markdown += f"\n![{os.path.basename(img)}](/images/{os.path.basename(img)})\n"
 
             markdown_content = f"""---
 title: {full_title}
