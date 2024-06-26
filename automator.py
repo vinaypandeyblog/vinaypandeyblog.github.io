@@ -8,10 +8,10 @@ def get_length_category(content):
     word_count = len(content.split())
     if word_count < 30:
         return "लघु"
-    elif word_count < 100:
-        return "मध्यम"
-    else:
+    elif word_count > 600:
         return "दीर्घ"
+    else:
+        return "मध्यम"
 
 
 def get_matching_images(date, images_dir):
