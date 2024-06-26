@@ -81,7 +81,7 @@ layout: post
 last_modified_at: {date_time.strftime('%Y-%m-%dT%H:%M:%S%z')}
 author: Vinay Pandey
 tags:
-- {day_based_tag}
+{' '.join('- ' + tag for tag in tags)}
 categories:
 - {length_category}
 ---
