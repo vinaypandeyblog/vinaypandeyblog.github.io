@@ -2,23 +2,28 @@
   {% include footer-custom.html %}
 
   {%- if site.footer_links -%}
-    <div class="social-icons">
-      {%- for footer_link in site.footer_links -%}
-        {%- if footer_link.url contains "://" -%}
-          {%- assign url = footer_link.url -%}
-        {%- else -%}
-          {%- assign url = footer_link.url | relative_url -%}
-        {%- endif -%}
-        <a class="social-icon" href="{{ url }}"><i class="{{ footer_link.icon | default: 'fas fa-link' }} fa-2x" title="{{ footer_link.title }}"></i></a>
-      {%- endfor -%}
-    </div>
+  <div class="social-icons">
+    {%- for footer_link in site.footer_links -%}
+    {%- if footer_link.url contains "://" -%}
+    {%- assign url = footer_link.url -%}
+    {%- else -%}
+    {%- assign url = footer_link.url | relative_url -%}
+    {%- endif -%}
+    <a class="social-icon" href="{{ url }}"><i
+        class="{{ footer_link.icon | default: 'fas fa-link' }} fa-2x"
+        title="{{ footer_link.title }}"></i></a>
+    {%- endfor -%}
+  </div>
   {%- endif -%}
 
   <div class="copyright">
     {% if site.copyright %}
-      {{ site.copyright | markdownify }}
+    {{ site.copyright | markdownify }}
     {% else %}
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.</p>
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title
+      }}. <i class="fas fa-code"></i> with <i class="fas fa-heart"></i>
+      by <a href="https://p-prakhar.github.io">Prakhar
+          Pandey</a></p>
     {% endif %}
   </div>
 </footer>
