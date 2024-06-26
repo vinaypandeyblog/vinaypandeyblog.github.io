@@ -3,6 +3,7 @@ from datetime import datetime
 import os
 import glob
 
+
 def get_length_category(content):
     word_count = len(content.split())
     if word_count < 30:
@@ -12,6 +13,7 @@ def get_length_category(content):
     else:
         return "दीर्घ"
 
+
 def get_matching_images(date, images_dir):
     date_str = date.strftime('%Y%m%d')
     pattern = os.path.join(images_dir, f'IMG-{date_str}*')
@@ -19,16 +21,11 @@ def get_matching_images(date, images_dir):
 
 
 def whatsapp_to_markdown(text):
-    # Convert WhatsApp bold (*text*) to Markdown bold (**text**)
     text = re.sub(r'(?<!\*)\*(?!\*)(.*?)(?<!\*)\*(?!\*)', r'**\1**', text)
-
-    # Convert WhatsApp italic (_text_) to Markdown italic (*text*)
     text = re.sub(r'(?<!_)_(?!_)(.*?)(?<!_)_(?!_)', r'*\1*', text)
-
-    # Convert WhatsApp strikethrough (~text~) to Markdown strikethrough (~~text~~)
     text = re.sub(r'(?<!~)~(?!~)(.*?)(?<!~)~(?!~)', r'~~\1~~', text)
-
     return text
+
 
 def process_chat_log(input_file, output_directory, images_directory):
     with open(input_file, 'r', encoding='utf-8') as file:
@@ -73,8 +70,12 @@ def process_chat_log(input_file, output_directory, images_directory):
             image_markdown = ""
             for img in matching_images:
                 image_markdown += f"\n![{os.path.basename(img)}](/images/{os.path.basename(img)})\n"
+
             content = whatsapp_to_markdown(content)
-            markdown_content = f"""---
+
+            # Check if there's any content or images
+            if content.strip() or image_markdown.strip():
+                markdown_content = f"""---
 title: {full_title}
 layout: post
 last_modified_at: {date_time.strftime('%Y-%m-%dT%H:%M:%S%z')}
@@ -89,8 +90,12 @@ categories:
 {image_markdown}
 """
 
-            with open(os.path.join(output_directory, filename), 'w', encoding='utf-8') as output_file:
-                output_file.write(markdown_content)
+                with open(os.path.join(output_directory, filename), 'w', encoding='utf-8') as output_file:
+                    output_file.write(markdown_content)
+                print(f"Created file: {filename}")
+            else:
+                print(f"Skipped empty content: {filename}")
+
 
 # Usage
 input_file = 'bkp.txt'
