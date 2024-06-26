@@ -71,7 +71,7 @@ def process_chat_log(input_file, output_directory, images_directory):
 
             length_category = get_length_category(content)
 
-            filename = f"{date_time.strftime('%Y-%m-%d')}-{title.replace(' ', '-')}.md"
+            filename = f"{date_time.strftime('%Y-%m-%d')}-{title.replace(' ', '-').replace('.','')}.md"
             filename = re.sub(r'[^\w\-.]', '', filename)
 
             # Get matching images
