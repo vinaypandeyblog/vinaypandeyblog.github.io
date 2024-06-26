@@ -79,7 +79,8 @@ def process_chat_log(input_file, output_directory, images_directory):
                 image_markdown += f"\n![{os.path.basename(img)}](/images/{os.path.basename(img)})\n"
 
             content = whatsapp_to_markdown(content)
-
+            # add newline after each tag
+            tags = [tag + '\n' for tag in tags]
             # Check if there's any content or images
             if content.strip() or image_markdown.strip():
                 markdown_content = f"""---
