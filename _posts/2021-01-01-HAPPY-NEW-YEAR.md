@@ -5,7 +5,6 @@ last_modified_at: 2021-01-01T07:18:00
 author: Vinay Pandey
 tags:
 - शुक्र की फिक्र
-
 categories:
 - लघु
 ---
