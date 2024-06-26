@@ -52,10 +52,10 @@ def process_chat_log(input_file, output_directory, images_directory):
             day_of_week = date_time.strftime('%A').lower()
             day_based_tag = {
                 'sunday': 'रवि दर्शन',
-                'monday': 'सोम का मर्म',
+                'monday': 'सोम संदेश',
                 'tuesday': 'मंगल कामना',
                 'wednesday': 'बुध की सुध',
-                'thursday': 'गुरु का ग्यान',
+                'thursday': 'गुरु ज्ञान',
                 'friday': 'शुक्र की फिक्र',
                 'saturday': 'शनि का सच'
             }.get(day_of_week, day_of_week)
