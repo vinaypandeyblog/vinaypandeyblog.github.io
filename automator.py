@@ -17,6 +17,19 @@ def get_matching_images(date, images_dir):
     pattern = os.path.join(images_dir, f'IMG-{date_str}*')
     return glob.glob(pattern)
 
+
+def whatsapp_to_markdown(text):
+    # Convert WhatsApp bold (*text*) to Markdown bold (**text**)
+    text = re.sub(r'(?<!\*)\*(?!\*)(.*?)(?<!\*)\*(?!\*)', r'**\1**', text)
+
+    # Convert WhatsApp italic (_text_) to Markdown italic (*text*)
+    text = re.sub(r'(?<!_)_(?!_)(.*?)(?<!_)_(?!_)', r'*\1*', text)
+
+    # Convert WhatsApp strikethrough (~text~) to Markdown strikethrough (~~text~~)
+    text = re.sub(r'(?<!~)~(?!~)(.*?)(?<!~)~(?!~)', r'~~\1~~', text)
+
+    return text
+
 def process_chat_log(input_file, output_directory, images_directory):
     with open(input_file, 'r', encoding='utf-8') as file:
         content = file.read()
@@ -60,7 +73,7 @@ def process_chat_log(input_file, output_directory, images_directory):
             image_markdown = ""
             for img in matching_images:
                 image_markdown += f"\n![{os.path.basename(img)}](/images/{os.path.basename(img)})\n"
-
+            content = whatsapp_to_markdown(content)
             markdown_content = f"""---
 title: {full_title}
 layout: post
