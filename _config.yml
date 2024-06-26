@@ -24,7 +24,7 @@ url: "https://vinaypandeyblog.github.io" # the base hostname & protocol for your
 logo: "https://static.vecteezy.com/system/resources/previews/000/648/985/original/vector-pen-icon-symbol-sign.jpg" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
-words_per_minute: 200
+words_per_minute: 150
 mathjax:
   enable: true
 #  combo: "tex-mml-chtml"
