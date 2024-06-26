@@ -1,17 +1,13 @@
 ---
 title: My humbel observations -
 layout: post
-last_modified_at : 2017-10-29T11:29:00
+last_modified_at: 2017-10-29T11:29:00
 author: Vinay Pandey
-
 tags:
 - रवि दर्शन
-
 categories:
 - दीर्घ
-
 ---
-
 Amid hype of U17 Fifa finale , cricket tri series and french open, yesterday thrilling finale took place  in PKL ( Pro Kabbadi League). 
 
 
@@ -32,3 +28,5 @@ In 3 month long league, with its unassailable defence, Gujrat was on the top of 
 In our tirades, we may also take clue. *Spirit stands above Skill and Resoluteness stands above Resources.*
 
 🙏🙏
+
+

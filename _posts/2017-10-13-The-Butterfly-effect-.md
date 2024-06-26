@@ -1,17 +1,13 @@
 ---
 title: The Butterfly effect !!
 layout: post
-last_modified_at : 2017-10-13T07:37:00
+last_modified_at: 2017-10-13T07:37:00
 author: Vinay Pandey
-
 tags:
 - शुक्र की फिक्र
-
 categories:
 - दीर्घ
-
 ---
-
 *The Butterfly effect !!*
 
  *Sometimes our seemingly small and  inconsequential acts can lead to a huge effect on the course of history.* 
@@ -45,3 +41,5 @@ _In the movie, Gladiator, the main character, Maximus says, “What we do in lif
 _*We have no idea what eternal effect can come from something insignificant we are doing today.*Jinnah’s grandfather would have never thought that his decision to go into fish business would have impacted the lives of millions one century later. "_
 
 SOURCE: Freedom at Midnight (Dominique Lapierre and Larry Collins);
+
+
