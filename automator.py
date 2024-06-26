@@ -43,7 +43,7 @@ def process_chat_log(input_file, output_directory, images_directory):
 
             title_match = re.search(r'\*(.*?)\*', content)
             title = title_match.group(1) if title_match else "Untitled"
-            full_title = title.replace('"', '').replace("'", '').replace(':', '')
+            full_title = title.replace('"', '').replace("'", '').replace(':', '').replace('.','')
             if len(title) > 25:
                 title = title[:25]
 
