@@ -6,9 +6,9 @@ import glob
 
 def get_length_category(content):
     word_count = len(content.split())
-    if word_count < 30:
+    if word_count < 220:
         return "लघु"
-    elif word_count > 600:
+    elif word_count > 750:
         return "दीर्घ"
     else:
         return "मध्यम"

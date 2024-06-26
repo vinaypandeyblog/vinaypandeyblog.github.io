@@ -6,7 +6,7 @@ author: Vinay Pandey
 tags:
 - रवि दर्शन
 categories:
-- मध्यम
+- लघु
 ---
 Amid hype of U17 Fifa finale , cricket tri series and french open, yesterday thrilling finale took place  in PKL ( Pro Kabbadi League). 
 
