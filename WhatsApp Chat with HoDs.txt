@@ -1,0 +1,304 @@
+28/04/2024, 16:55 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+28/04/2024, 16:55 - You created a broadcast list with 26 recipients
+28/04/2024, 16:55 - Vinay Pandey: *Power Sector Round up*
+
+1. *Tariff hike* - As the polling in Uttarakhand ends, UERC issued tariff order on 26 April, average tariff goes up by 6.92%.
+
+2. *Power Demand* - Fitch Ratings expect India's power demand to rise by 7-8 per cent year-on-year in 2nd quarter of 24-25. Overall growth may cross 10%.
+
+3. *IPOs for green power ventures of CPSUs* NTPC Geen IPO of 10000 cr expected in November.  Green ventures from NHPC, SJVN, ONGC, Indian Oil, Coal India & NLC may follow. 
+
+5. *VGF for Wind* - Offshore wind capacity of 1 GW under the Viability Gap Funding  may be auctioned in first 100 days of new govt. 
+
+6. *Solar rooftop Guideline* - Draft guidelines under the PM Surya Ghar Muft Bijali Yojna will also be finalised in 100 days. The scheme with outlay of 75021 cr has already seen registration by more than 10 million households. At current benchmark prices, the subsidy for 1 KW /2Kw /3 ke system is 30000/  60000/-  and 78000/- only. 
+
+7. *VGF for Storage* - Battery storage systems and boosting pumped hydro storage projects  may be supported through concessional climate finance, including sovereign green bonds issued by the government for green infrastructure.
+
+8. *REC avails JPY loan* - In a significant step towards sustainable development in India, REC Ltd, has  availed a first it's kind green loan of  Japanese Yen 60.56 billion with 80% guarantee by Italian Export Credit Agency, SACE. 
+
+9. *Additional support for floating Solar* - Under the ongoing scheme for solar parks, MNRE provides Central Financial Assistance (CFA) up to ₹ 20 lakh per megawatt (MW) or 30% of the project cost. Under new scheme, CFA to floating solar parks may be over and above such incentive.
+
+-compilation - vinay pandey
+06/05/2024, 08:01 - Katiyar Sanjeev and Katiyar Sanjeev were added to the list
+06/05/2024, 08:01 - Vinay Pandey: *Power Sector Round up - 2*
+
+*Innovations*
+
+1.Inspired by the aerodynamic wings of a condor, researchers from the University of Alberta in Canada, partnering with an industrial design firm,  designed a retrofit added to wind turbine blades, which can boost energy production by an average of 10%. 
+
+2.Britain's RheEnergise is trying to replace the water with a 2.5 times more dense, heavy, paste-like fluid by mixing water with proprietary mineral powder called R19 . With this fluid one can get the same energy storage performance as traditional pumped hydro, using 40% the volume, much smaller tanks, and 40% the height differential between the upper and lower tanks. RheEnergy also claims the cost comes to less than that of large scale lithium-ion batteries.
+
+*New Developments*
+
+3.Coal Ministry mulls 6 mega power plants each with a capacity of 5,000 megawatts near its coalfield. Total investment planned is more than 2.5 lakh Crore. Out of 6, two are planned in Chhattisgarh, one at Korba and other at Mand-Raigarh coalfield. Odisha and Jharkhand will also have two plants each. They will be established through joint ventures (JVs) with the government, private power companies, and state-owned electricity generators. 
+
+4.On 29th April NHPC Limited, has signed MOU with Norwegian company Ocean Sun to explore photovoltaic panels mounted on hydro elastic membranes. They will be used for floating solar plants. The ceremony was attended by the Ambesdors of two countries too.
+
+5.Tata Power Renewable Energy Ltd, signed its dispatchable renewable energy (FDRE) project PPA with SJVN for a 460 MW. TPREL will develop a hybrid plant comprising solar, wind, and battery storage components. The FDRE enables Discoms in fulfilling their RPO and energy storage obligations (ESO). 
+
+*Stats*
+
+6.India's total installed capacity reached 442 GW. For the first time coal is less than 50%. RE is 144 GW (33%) and hydro is 47 GW (11%). 
+In the RE capacity addition, Solar (including roof top) is highest 81% (15 GW). Wind is 3.3 GW & nuclear 1.4 GW. 
+
+7.Highest supply record in May was recorded at 223.84 GW on 3rd May. Previously it was 1st May 23 was 221.42. 
+
+8.Coal availability at power plants is 68% of norm. 
+
+9.As per ICRA report India's renewable energy generation, including large hydro projects, is expected to reach 40% by 2030, up from current 25%. 
+
+10.The tariff under BESS tenders havevmore than halved first SECI tender in August 22 to latest Gujrat tender in March 24. The reduction in battery costs from 2021 to 2023 lead to BESS cost dropped to Rs 6-7 Rs/ unit but they remain higher than PSP hydro which stands at about rs 5 per unit. However, the shorter gestation period and lower execution risks may favour BESS projects.
+
+Compilation - Vinay Pandey
+
+🙏🌷🌷🙏
+12/05/2024, 17:49 - Vinay Pandey: *Power Sector Round up - 3*
+
+*Innovations / Policy Interventions*
+
+1.The world's first 100 MWh GESS (Gravity Energy Storage System) project "Rudong EVx" has been commissioned in China. Based on Swiss company Energy Vault’s solution, it employs massive concrete blocks to store and release electricity. This mammoth building-sized storage capacity has 35 year operational life with 4 hr cycle and impressive 80%  plus efficiency.  
+
+2.In a bid to induce competition, CEA has relaxed the PQR for EPC bids for Super critical thermal stations. Now experience in sub-critical technology will also be allowed for super critical  plants. Generators may also be asked to opt for split / package based tenders. Resultantly Companies like GE, Thermax may get entry. 
+
+*New Developments*
+
+3.India has surpassed Japan to become the world's third-largest solar power generator. Solar is the world's fastest growing electricity source adding more than twice capacity in 2023 than coal. In terms of capacity additional in 2023, India stood fourth (18 TWh) behind Brazil (22 TWh), USA (33 TWh) & China (156TWh). 
+
+4.A study by the Council on Energy, Environment and Water says India's solar waste is expected to jump to 600,000 tonnes by 2030 from the current 100,000 tonnes due to rapid deployment of new solar capacities.  Solar capacity of around 292 GW is likely to be deployed by 2030, making solar PV waste management crucial. Most of this waste is likely to come from Rajasthan, Gujarat, Karnataka, Andhra Pradesh & TamilNadu.
+
+5.Expert group 'Devdiscourse' report states that India's solar drive may get hampered by fears of DISCOMs losing income, a shortage of skilled workers to make, install and service solar panels, and the proliferation of substandard products. The report states "Imagine millions of homes being hooked up to the grid and injecting their excess electricity in a system that is already facing so many technical losses," 
+
+6.Ministries of Renewable energy & Skill development are jointly working on a plan to train a workforce of 1,00,000 to install and manage solar panels under PM Surya Ghar Muft Bijali Yojana.They also plan to train 50,000 vendors.
+
+*Stats*
+
+7.According to government sources, with projections indicating a shortfall of 14 GW during nighttime hours, India is gearing up to tackle its most significant power deficit in 14 years this June. The impending deficit is propelled by a decline in hydropower generation and exacerbated by delays in commissioning 3.6 GW of new coal-fired plants, originally slated for operation before March. 
+
+8.According to think tank Ember,Coal-fired electricity output hit 338 terawatt hours during the first quarter of 2024,  which marked a 9.6% rise from the same quarter in 2023. Total power sector emissions also climbed by the same degree to a record 316 million metric tons of CO2 & equivalent gases.
+
+9.GUVNL (Gujrat Urja) has filed a petition before GSERC seeking approval for tariff rates discovered through competitive bidding process for procurement of storage capacity from a standalone Battery Energy Storage System (BESS) project.Gensol Engineering Limited and IndiGrid have bid tariff rates of about ₹4.49 lakh per MW per month (about Rs 4 per kWh for storage) for 70 MW/140 MWh capacity and 180 MW/360 MWh capacity.
+
+Compilation : Vinay Pandey
+12/05/2024, 18:20 - Anil Agrwal Htps and Sing MP were added to the list
+12/05/2024, 18:48 - Sanjay Vaidya Onm Gen and Vaidya O&M were added to the list
+12/05/2024, 18:59 - Kothari Deepak added to the list
+12/05/2024, 20:34 - R K Shukla CE Transmission added to the list
+12/05/2024, 21:23 - Vinay Pandey: <Media omitted>
+19/05/2024, 22:13 - Vinay Pandey: *Power Sector Round up - 4*
+
+*Policy Interventions*
+1.MoP on 14th May has clarified that for projects set up under Section 63 of the Electricity Act 2003, wherein 'fuel cost pass through' is provided in PPA, the cost of biomass pellets shall also be pass through in the Energy Charge Rate. 
+
+2.A scheme for installation of solar agricultural pumps under PM Kusum yojna is on drawing board. The PM Kusum scheme has 3 components - 1. Installation of 10000 MW solar capacity. 2. Installation of about 2 million stand alone solar pumps and 3. Solarization of about 1.5 million agricultural pumps. It is for the second part that a national portal, like the one launched for PM Surya Ghar Muft Bijali yojana is being planned. It will have 30% central subsidy but integration of 30% subsidy from state is challenging
+
+3.Under the new guidelines, CPSUs / their JVs have now started direct submission of Solar/RE Park DPR to SECI & MNRE instead of asking for approval of DPR by the state govt committee. However private and State PSU developer have to obtain approval of the state energy department as per Nov.21 guidelines. 
+
+4.A study, published in the journal "Nature Communications" on May 7, 2024, analysed financial impact of plans for coal phase-out. If China and India were to allow compensation measures akin to those already established in Europe, the projected compensation sum for both nations would be $2.4 trillion to achieve the 2 degrees Celsius target and $3.2 trillion for the 1.5°C target. The projected compensation figures for China & India rival the entire international climate finance pledged in Paris, surpassing current levels of international development aid to these countries.
+
+*Innovations*
+
+5.On May 11, China has put the first large-scale sodium-ion battery storage station into operation. A 10-MWh sodium-ion battery storage station at Nanning, Guangxi in southwestern China, is the first phase of an overall 100-MWh projet by China Southern Power Grid Energy Storage. The Sodium ion batteries are faster and carry low hazard risk. Importantly, due to easy and large scale availability of Sodium with large scale production it is expected to be 20-30% cheaper in comparison to Lithium,  making it a better choice for large-scale use.
+
+6.In a significant move by Radiance, Indian RE firm planning expansion of RE capacity from 500 MW to 2GW in three years has introduced robotic cleaning for its solar panels. Company claims that it's robotics cleaners are dry and powered by solar energy, thus it is sustainable, saves water and allows more frequent cleaning. 
+
+*Commercial Developments* -
+
+7.NHPC has inked a loan of about 1100 Cr with JBIC, Japan for developing a 300 MW solar park at Bikaner. First of its kind cheap loan facility has been availed under GREEN Operations.
+
+8.THDC plans to shutdown its hydro stations between June 1 to 1July 15, so as to commission it's first two Pump Storage units of 250 MW. After commissioning of all 4 PSP units of 250 MW, Tehri will supply upto 2400 MW in peak hrs. 
+
+9.Adani Energy Solutions Ltd (AESL), India's largest private transmission and distribution company completes acquisition of  Essar Transco by 100% stake take over for an enterprise value of 1900 Cr. The Essar Transco assets include fully operational 400 kV, 673 circuit km inter-state transmission line, which connects Mahan in MP with Seepat looking station in Chhattisgarh. It strengthens AESL footprint in Central India where it operates four  assets totalling 3373 ckt km.
+
+10.Following the footprint of parent company Siemens AG, Siemens India has decided to de-merge it's Energy business and list it separately. The move comes as market drivers and capital requirement in energy & industrial markets differ vastly. 
+
+*सप्ताह की सबसे खास बात*
+
+*18 मई को "स्माइलिंग बुद्धा" के 50 वर्ष पूर्ण हुए।*
+
+संकलन - विनय पांडेय
+20/05/2024, 10:06 - Agnihotri Aashish, Aipef Tirupathi Jayanti Tamilnadu, Bisane K L, Datar Shashank, dubey shailendra, Gec Tiwari Shishir, Harsh Gupta, Jain abhishek, Jain Y B, Joshi bipin, Mod Taneja Manish, Nigam subodh, O P Pandey SE Bango, Okhade Sanjay, Pandey R P, Parthan R, Ramakrishna, Sadashiven Cspdcl, Salil Choudhary, Tiwari S K, Umesh Mishra PRO and Vaghmare Ravindra were added to the list
+26/05/2024, 11:55 - Vinay Pandey: *Power Sector Round up - 5*
+
+*Innovations*
+
+1.Researchers from School of Engineering of "UnFoLD Labs" in a paper published in “Nature Communications" have come up with a game changing research on windmills. At present, windmills used are Horizontal Axis Wind Turbines (HAWT) but the first windmills of 8th century (used for grinding grain) were Vertical Axis Wind Turbines (VAWT). VAWT are less noisy and achieve greater wind energy density but dynamic stall increases  risk of vortex and threat to foundation Stability. Researchers using a combination of Sensor technology & Machine Learning have worked out computer based algorithm to configure & control multiple optimal profiles for VAWT blades, which will use dynamic stall to provide higher propulsion instead of vibrations. It will achieve a 200% increase in turbine efficiency and 77% reduction in structure threatening vibrations. To build a proof of concept VAWT, a bridge grant has been issued by Swiss National Science Foundation and Innosuisse . 
+
+*Court & Regulatory Interventions*
+
+2.In a big relief to Himachal Govt, Supreme Court stayed HP High Court order on water cess. After the Central govt declared that states cannot impose water cess,  on a petition filed by NHPC & others, on March 5, Highcourt declared Section 10 & 15 of HP Water Cess Act & the Rules as ultra vires and ordered refund of Cess so collected. For Himachal, water cess is big money amounting to about Rs 2,000 crore annually. The final outcome may have impact on Bango and SHP tariff and also on viability of PSPs in Chhattisgarh.
+
+3.On May 21, 2024 Shri Ramesh Babu V. has taken over the charge of Member, CERC. A career NTPC person, he served as Director (Operations), NTPC from May 2020 till his retirement on 31.01.24.
+
+4.In order to align Regulations with Electricity (Right of Consumers) Rules, 2020 GERC has floated Draft Net Metering Rooftop Solar PV Grid Interactive Systems (4th Amendment) Regulations, 2024. Main features of draft include exemption of rooftop systems up to 10 KW from technical feasibility study and exemption of installations up to 6 Kw from infrastructure strengthening charges. The cost will be charged to ARR. 
+
+5.RERC on a petition filed by RUVNL has adopted discovered tariff of about Rs 3.03/ unit for 810 MW bid won by NLC in the Ultra Mega Solar Park being established at Barmer.  
+
+ Statistics / Achievements
+
+6.In a record breaking transition, India added about 10 GW Solar Capacity in the 1st quarter of 2024. It is about 5 times on YoY basis. In the 1st quarter of 2023, it was 2 GW. 
+
+7.As per a ToI report, day before yesterday, on Friday ,the searing heat wave sweeping across most parts of India pushed peak power demand past Centre’s estimate to hit almost 240 GW (gigawatts) — the highest this year —  and looks set to top the all-time record of 243.2 GW. Officials say this year peak may touch 260 GW. 
+
+*Future Growth*
+
+8.As per a CRISIL Report, driven by the need for grid balancing and continuous power supply, India may add about 25 GB wind energy capacity by 2028 with capital expenditure of about 2,00,000 Cr. While annual capacity addition during 2014 to 18 was about 3 GW, during 2018 to 23 it came down to 1.7 GW.  Thus the projections indicate about 3-4 times surge in annual capacity addition.
+
+9.Last week, during visit of Secretary Atomic Energy Ajit Kumar Mohanty, to Pilot Demonstration Energy Complex in Seversk, Russia offered cooperation in construction of high capacity nuclear power units at a new site in India. At present at Kundakulam Nuclear Power project,  Russian design based 6 units of 1000 MW each, equipped with light water reactors, are under construction, two of which have already been commissioned. 
+
+*Unexpected*
+
+10.In light of the protests which started on 14 May from Vadodara and soon spread to Surat, Rajkot, Jamnagar, Anand, Godhra and Dahod, Smart meter installation in Gujrat had now been put on hold. After a high-level meeting, it was decided that ‘check meters’ (old meters) will be installed alongside smart meters in government offices, and consumers will be invited to see their functioning to “dispel any misinformation” and “win back their confidence”, before carrying out installation in residential areas. GUVNL has also decided that it will install check meters for every consumer who insists on getting one. Under RDSS Gujrat has to install 1.64 crore smart meters out of which about 60,000 have been installed so far.
+
+Compilation - Vinay Pandey
+01/06/2024, 15:50 - Vinay Pandey: Tariff order issued
+
+State govt gave 1000 cr to bridge the CSPDCL gap.
+
+After taking into account, Avg tariff hike is 8.35%
+01/06/2024, 16:21 - Vinay Pandey: You deleted this message
+01/06/2024, 16:21 - Vinay Pandey: You deleted this message
+01/06/2024, 16:21 - Vinay Pandey: You deleted this message
+01/06/2024, 16:24 - Vinay Pandey: <Media omitted>
+01/06/2024, 16:24 - Vinay Pandey: <Media omitted>
+01/06/2024, 16:24 - Vinay Pandey: <Media omitted>
+02/06/2024, 18:37 - Vinay Pandey: *Power Sector Round Up -6*
+
+*INNOVATIONS*
+1.South Korean major Hanwha’s group company Qcells is using technology developed by Israeli startup Lumet to change cost of solar panels manufactured out of China. Transforming complex process of Metallisation, new process coats plastic films surface with silver paste, presses it onto preheated cells and then produces thinner silver fingers to increase amount of light captured by each solar cell. After completion of Qcells $2.5 billion Georgia project, it may be able to compete with  Chinese panels which are currently half priced in comparison to US. 
+
+2.China plans government funding of 6 billion yuan (USD 830 million) to six firms to develop next generation solid state batteries which are safer, more stable and have longer battery life. The six firms include industry leader CATL, tech major WeLion and auto giant BYD. 
+
+*Business Initiative*
+
+3.NTPC has proposed to MoP to pool its “entire capacity”. Presently, PPAs specify particular plant and in some cases the stage from which power will be supplied. As per NTPC, proposal will allow discoms /states to get steady supply of power even in case of shutdown of units. For NTPC, it will allow operational flexibility, operation of units above Technical Min. Load & ease DSM implications. On the other hand, experts say that with pooling, states getting power from cheaper stations, may have to bear much higher power purchase cost.   
+
+4.After floating subsideries for green power and solar panel manufacturing, Coal India has set up a JV named, Bharat Coal Gasification and Chemicals Ltd (BCGCL), with BHEL for Coal to Chemical business. It has also entered into MoU with GAIl for entering into Coal to Natural gas segment.
+
+5.MNRE new focus in wind power is on tendering for offshore. In February, MNRE issued a tender for seabed allocation for a sea area big enough to accommodate 4 GW of offshore wind capacity. The bids are to be opened in July. Further first tender with govt’s VGF support could be out as early as September – for 500 MW near Gujarat. 
+
+*Statistics*
+
+6.Wind power is on roll. Installations in current FY is expected to be 6.5-7 GW, compared to 3.2 GW last year and previous all time high of 5.4 GW in 2016-17. 
+
+7.While the heatwave is pushing the demand up, it has a calming effect too.  Central Water Commission (CWC) has reported that soaring temperatures have increased the snow melting and Bhakra dam (power gen capacity 1325 MW)  has registered 10 feet higher water level.  Significant rise in water flow also noticed in Bhagirathi, Mandakini and Kali Nadi in Uttarakhand, denoting deterioration in glaciar health in Himalayan  region. 
+
+*Smart Meters*
+7.After Gujrat, Consumer activists in Mumbai are raising protest against Smart meter installations by BEST . Their contentions are - High Cost of meters (about Rs 12000) will lead to higher ARR, high maintenance cost and lower life (about 90 months) than conventional meters.   
+
+*PROUD MOMENTS*
+
+8.After the Punjab Govt appointed Shri Baldeo Singh, a career power engineer, Chairman of PSPCL, PSPCL has turned around from loss of 4375 Cr in FY 22-23 to unaudited profit of 900 Cr in FY 23-24. Even with increased demand, there is no power cut and no imported coal.  
+
+9.All PSU employees to note that 56 listed PSUs made a combined record profit of Rs 5 lakh crore in FY24. Here are India’s 10 most profitable PSUs 
+ https://www.businesstoday.in/markets/top-story/story/56-listed-psus-made-a-combined-profit-of-rs-5-lakh-crore-in-fy24-here-are-indias-10-most-profitable-psus-431633-2024-05-31?utm_source=btweb_story_share
+
+Compilation - Vinay Pandey
+02/06/2024, 18:41 - Vinay Pandey: Today's food for thought
+
+India’s energy sector: Ten years of progress, but in fits and starts
+ https://carboncopy.info/indias-energy-sector-ten-years-of-progress-but-in-fits-and-starts/
+04/06/2024, 08:11 - Richa Rani Dewangan added to the list
+09/06/2024, 20:08 - Vinay Pandey: *Power Sector Round up - 7*
+
+*Policy*
+
+1.On 27th May, MNRE issued a OM exempting RE plants located within SEZs or Export Oriented Units (EOUs) and commissioned by 31.12.2030, from Approved List of Models and Manufacturers (ALMM) requirements, provided they exclusively supply power to production plants of Green Hydrogen or its derivatives. 
+
+2.With the new government taking over, an ambitious 100-days plan may hit the ground soon. Among top expectations are - a new hydro policy, subsidies for battery storage and India’s first offshore wind concession (NTPC announced 8.8GW of tenders this week). 
+
+*EVENTS & PLANS - NATIONAL*
+
+3.This week SECI started accepting bids to set up 1.2 GW (with single bids ranging from min. 50 MW to max. 600 MW) of solar projects on a build-own-operate (BOO) basis. Generators with commissioned solar PV projects or under construction projects with untied capacity may participate. In a separate development, NTPC has also started accepting bids from RE developers to supply 1.2 GW of firm, dispatchable power from projects on BOO basis with Energy Storage Systems (min. single bid 50 MW, max 600 MW & incremental size 10 MW). In both cases, the project can be located anywhere in India and should be connected to the interstate transmission. 
+
+4.NTPC is planning a major nuclear foray by setting up 10GW capacity with an investment of ₹1.5 trillion over a period of 10 years. NTPC already has a JV with Nuclear Power Corporation for setting up two nuclear power plants in Rajasthan (Banswara 4x700 MW) and MP (Chutaka 2x700 MW). Now NTPC is planning a wholly-owned subsidiary called "NTPC Nuclear Ltd". The 10GW nuclear capacity would be over and above NTPC's target of 60GW green power by 2032. Regarding nuclear power India, has currently 23 operational reactors with total 7.48 GW capacity. 10 more reactors are under construction and by 31-32 total capacity is expected to triple to about 22.48 GW. 
+
+5.As per Moody's Rating, India's power sector is set to witness significant investment flows, driven primarily RE and Transmission projects. By 2030, RE is expected to attract $190-215 bn while T&D network will need $150-170 bn. However, with demand CAGR at 5%-6%, with likely addition of about 40 - 50 GW capacity coal may not be sidelined.
+
+*BIG ONES  - INTERNATIONAL*
+
+6.On Monday, June 3, world’s biggest solar park of 5 GW capacity has come online in the desert region of north-west China. The facility covers 200,000 acres – roughly the same area as New York City. The new solar farm overtakes the Ningxia Teneggeli and Golmud Wutumeiren solar projects, both in China (each 3 GW) to become the largest in the world. As per IEA (International Energy Agency) China commissioned as much solar capacity in 2023, as entire world did in 2022.
+
+7.In a global first, on June 5, China's state owned Dongfang Electric Corporation, completed installation of a solitary 18 MW wind turbine at a coastal test base in South China’s Guangdong province. The turbine’s rotor diameter is a whopping 853 feet which sweeps an area of over 570,000 square feet, little bigger than 7 standard-sized football fields. With expected annual gen. of 72 MU, about 40000 tons coal may be saved.
+
+8.Just after weeks of completion of 100 MW hr (25 ×4) GESS project near Shanghai, the technology innovator 'Energy Vault' has found a new partner in Burj Khalifa designer Chicago-based Skidmore, Owings & Merrill LLP (SOM). With Energy Vault, SOM  has designed prototypes that elevate massive blocks using electric motors to store the energy. The concept is similar to Pump Storage Plants, but without threat to ecology and biodiversity and is faster in implementation. While Shanghai project was about 150mtr high, SOM’s skyscrapers may start at 300 mtrs. Some other companies are also testing new GSS, using abandoned oil wells & mines. 
+
+*Statistics*
+
+9.India's leading electricity exchange, IEX,  has reported 28.9% YoY growth in trading volume in May 24. While Electricity trading surged by 21%, with record lower prices (on 29/5 - Rs 165)  Renewable Energy Certificates (RECs) trade shot up by 640%. Significantly, while demand was up in May (250 GW+ on May 30), the DAM (Day Ahead Market) saw average MCP (Market Clearing Price) of Rs 5.30 per unit, about 20% less than prices discovered under bilateral contracts. Further RTM (Real Time Market) surged by more than 38%, which shows that Discoms are effectively balancing demand supply in real time. TAM (Term Ahead Market) moved up by 15%. Green DAM & TAM also were up by 79%. The average per unit price of GDAM and GTAM was Rs 3.86 & Rs 8.06. Energy Saving Certificates also registered trade of about 10 MU at floor price of 2165/ESCert. 
+
+Compilation - Vinay Pandey
+
+🙏🙏🙏🙏
+12/06/2024, 07:25 - Agrwal vinod and sing pn were added to the list
+18/06/2024, 08:56 - Vinay Pandey: *Power Sector Round up - 8*
+
+*Policy*
+
+1.On 7th June MNRE has issued 57 page document on the ambitious PM Surya Ghar Yojana. Along with the detailed guidelines, the doc contains, Scheme coverage (2pages), Model draft agreement (Consumer &Vendor) (5 pages), Detailed Technical Specifications (20 pages), Model Net Metering Agreement (5 pages) and Draft MoU between MNRE & State/U (4 pages).
+
+*Regulatory*
+
+2.Effective from 16 June, PSERC issued tariff order for FY 24-25. Hike is about 10 to 12 paise /unit for domestic and 15 paise for industry. Interestingly the ARR of PSPCL for FY 24-25 is Rs 48462 Cr, while subsidy to be paid by State government is Rs 21,909 Cr (45% of ARR). If old arrears of various govt departments are added it will be about 29659 Cr. which is about 14.5% of State's total budget of about 2.04 Cr. 
+
+*Leagal*
+
+3.In a significant judgement, the Meghalaya High Court ruled that a company acquired through the Insolvency and Bankruptcy Code (IBC) process is not liable for electricity dues incurred before the takeover. The case was related to Reliance Infratel, the petitioner company that whic has 157 mobile towers in Meghalay (over 43,000 in India) and  was admitted to insolvency with effect from 07.05.2019. 
+
+*News - National*
+
+4.NTPC has floated bids to develop 250 MW / 500 MWh standalone BESS at its Gadarwara and Solapur TPS. The bids will close on 18th july and shall be opened on the same day. 
+
+5.As per report in Power line & Moneycontrol, BHEL has secured  order of 7000 Cr from Adani power for BTG of 4 units of 800 MW each, 2 in Raipur & 2 in Mirjapur. 
+
+6.As per reports, NTPC Green Energy Limited (NGEL), for supply of green energy, is in advance talks for JV with HPCL and Hindalco. It will be in line with JV with IOCL.
+
+7.On 17 June Gautam Adani, met Bhutan PM and signed MOU for 570 MW green hydro plant in Chukha province. 
+
+8.As per a PTI report, in next 4 years, ESSAR group is planning to invest 30000 Cr in a 1 GW green Hydrogen project with associated 1 million green molecule capacity at Jamnagar Gujrat.
+
+9.As per a report in Energy world, India's RE developers are facing budgeting issues due to recent surge in Copper prices. From April 24 to June 10 the spot Copper prices have gone up by 23% increasing the Balance of System (BoS) cost in RE plants by about 3.5%. As per estimates Solar plants need about 5 tons Copper/ MW while onshore and offshore wind plants need 4.3 & 9.6 tons/ MW. However, experts from ICRA pointed out that it may not be severe issue because solar developers continue to benefit from lower prices of pv modules. 
+
+10.Reliance Power  has now repaid the entire debt and has become debt free on standalone basis. Between December 2023 and March 2024, the company signed multiple debt settlement agreements with various banks, including IDBI Bank, ICICI Bank, Axis Bank and DBS. 
+
+*International*
+
+11.The world bank has sanctioned additional loan of $1 billion to China backed Pakistan's Dasu Hydropower Project, Stage -1 situated at Khyber Pakhtunkhwa, 345 km from Islamabad. The Run of River Project will generate 4320 MW with annual energy of 21445 GWh. The  Stage-I&II both will have 2160MW capacity (06 Units @ 360MW each). As per Najy Benhassine, World Bank Country Director - _"With a very small footprint the DASU Hydropower Project site is one of the best hydropower sites in the world and is a game changer for the Pakistan energy sector."_ The work is being carried out by China's Gezhouba. Stage-I was expected to be completed in 05 yrs. However, the project sufferers from delays due to terror attacks. In a recent incident in the region, March 24, after death of 5 Chinese nationals,  Power Construction Corporation of China (PCCC), suspended the civil works at Tarbela 5th Extension.
+
+Compilation - Vinay Pandey
+21/06/2024, 09:01 - Hemant Verma Chairman CSERC and Pramod Gupta Kanchan Ashw were added to the list
+23/06/2024, 23:42 - Abps Palani Appan and Atul Pandey Abps were added to the list
+23/06/2024, 23:48 - Swati Tiwari added to the list
+23/06/2024, 23:48 - sing manjeet added to the list
+24/06/2024, 06:11 - Vinay Pandey: *Power Sector Round up 9*
+
+*Policy*
+
+1.On June 14, MoP issued Guidelines for payment of Right of Way (Row) compensation concerning transmission lines including those in urban areas. Along with the detailed SOP, it addresses issues related to Authority, Determination of compensation, Alternate compensation, Areas with RoW constraints, Landowner identification etc. While States/UTs are allowed to adopt these guidelines or issue their own modified guidelines, in absence of State guidelines, these guidelines shall apply.
+
+*Innovations*
+
+2.The world’s firs flue gas CO2 to 4G ethanol project is going to be implemented at NTPC's Lara STPS, the plant conceptualised and designed by NETRA (NTPC Energy Technology Research Alliance). Bid for setting up the plant to produce 4G ethanol from flue gas has been begged by Jakson Green. Using latest carbon capture technology, the plant will capture 25 TPD CO2 from flue gases. Also, 3 tonnes per day of green hydrogen will be generated through 7.5 MW electrolyser. Captured CO2 & generated H2 will be combined to form 4G ethanol via microbial fermentation technology. 
+
+3.With off shore wind turbines becoming talk of the town, last year Swedish state-owned power firm Vattenfall and Denmark's Aarhus University commissioned a 4 yr research project on the potential to grow sea food beneath the offshore wind turbines. With its first harvest just 18 months later, it's already showing signs of early success. 
+
+*News – National*
+
+4.On June 19, The Union Cabinet, approved  Viability Gap Funding (VGF) of Rs.7453 crore for offshore wind energy projects of 1 GW (500 MW each, off the coast of Gujarat and Tamil Nadu). It also includes grant of Rs.600 crore for upgradation of two ports to meet logistics requirements. The projects will be established by TBCB and power evacuation infrastructure will be constructed by PGCIL. 
+
+5.On June 22, MoP cleared 2 Transmission projects costing about 13,600 Cr to evacuate 9 GW of RE power (part of the 500 GW target by 2030) from Rajasthan and Karnataka. Projects will be executed by TBCB.
+
+
+*News – International* 
+
+6.The Energy Institute (EI), in collaboration with KPMG and Keanery has issued 73rd edition of “Statistical Review of World Energy”. It states that 2023 was a year of production and consumption records. Regarding regional imbalances it observes that while Africa and South Asia were responsible for less than 10% of world’s energy demand, they are positioned for significant energy demand growth. During the year, total primary energy consumption increased by 2% reaching 620 EJ (Exa Joule = 10^18 Joules). While electricity demand grew 25% faster than total primary energy consumption, on supply side, RE grew at 6 times the rate of total primary energy.
+
+*Plans & Forecasts*
+
+7.With addition of 15.4 GW by March 2025, current FY may mark largest thermal capacity increase in a decade. Last year, India announced plans to bolster its coal-fired capacity by nearly 90 GW by 2032. About 28.5 GW is under construction, with plans to award contracts for an additional 50 GW over the next three years.
+
+8.CRISIL estimates that India’s key infrastructure sectors - RE, Roads & Real estate are expected to grow ~38% in fiscals 25 and 26 compared with previous two fiscals. For RE, FY 24 saw auctions of 35 GW, the highest ever in a single fiscal, resulting in a strong pipeline of 75 GW primarily driving implementation of 50 GW over next two fiscals.
+
+9.Adani Green claims to plan investmeny INR 25,000-27,500 crore ($3 bn) in building its first pumped-storage facility.  It aims to establish 5 GW of PSH capacity in next 5 years and eventually increase it to 25 GW. This is in addition to Group's proclaimed investment of more than $100 bn in energy transition space. The group claims to be building world’s largest single-site 30 GW RE park at Khavda in the Kutch region of Gujarat. 
+
+Compilation- Vinay Pandey.
+25/06/2024, 09:31 - Bajpai C M and Icra santosh were added to the list
