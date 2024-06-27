@@ -50,24 +50,25 @@ def process_chat_log(input_file, output_directory, images_directory):
             content = content.split('\n', 1)[1] if '\n' in content else content
 
             day_of_week = date_time.strftime('%A').lower()
-            day_based_tag = {
-                'sunday': 'रवि दर्शन',
-                'monday': 'सोम संदेश',
-                'tuesday': 'मंगल कामना',
-                'wednesday': 'बुध की सुध',
-                'thursday': 'गुरु ज्ञान',
-                'friday': 'शुक्र की फिक्र',
-                'saturday': 'शनि का सच'
-            }.get(day_of_week, day_of_week)
+            # day_based_tag = {
+            #     'sunday': 'रवि दर्शन',
+            #     'monday': 'सोम संदेश',
+            #     'tuesday': 'मंगल कामना',
+            #     'wednesday': 'बुध की सुध',
+            #     'thursday': 'गुरु ज्ञान',
+            #     'friday': 'शुक्र की फिक्र',
+            #     'saturday': 'शनि का सच'
+            # }.get(day_of_week, day_of_week)
 
-            # Add specific tags based on full_title
-            tags = [day_based_tag]
-            if 'प्रतिदिन' in full_title:
-                tags.append('प्रतिदिन')
-            if 'घूमता आईना' in full_title:
-                tags.append('घूमता आईना')
+            # # Add specific tags based on full_title
+            # tags = [day_based_tag]
+            # if 'प्रतिदिन' in full_title:
+            #     tags.append('प्रतिदिन')
+            # if 'घूमता आईना' in full_title:
+            #     tags.append('घूमता आईना')
 
-            tag_str = '\n- '.join(tags)
+            # tag_str = '\n- '.join(tags)
+            tag_str = 'Power Sector Roundup'
 
             length_category = get_length_category(content)
 
@@ -107,7 +108,7 @@ categories:
 
 
 # Usage
-input_file = 'bkp.txt'
+input_file = 'WhatsApp Chat with HoDs.txt'
 output_directory = '_posts'
 images_directory = 'images'
 process_chat_log(input_file, output_directory, images_directory)
