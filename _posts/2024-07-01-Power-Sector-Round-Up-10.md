@@ -1,5 +1,5 @@
 ---
-title: Power Sector Round up 10
+title: Power Sector Round up - 10
 layout: post
 last_modified_at: 2024-07-01T06:00:00
 author: Vinay Pandey
