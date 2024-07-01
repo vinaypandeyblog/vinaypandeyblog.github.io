@@ -1,5 +1,5 @@
 ---
-title:  Power Sector Round up - 7
+title: Power Sector Round up - 7
 layout: post
 last_modified_at: 2024-06-09T20:08:00
 author: Vinay Pandey
@@ -8,7 +8,6 @@ tags:
 categories:
 - Compilations
 ---
-** Power Sector Round up - 7**
 
 **Policy**
 

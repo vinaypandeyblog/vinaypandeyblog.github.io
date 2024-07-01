@@ -8,7 +8,6 @@ tags:
 categories:
 - Compilations
 ---
-**Power Sector Round up - 2**
 
 **Innovations**
 

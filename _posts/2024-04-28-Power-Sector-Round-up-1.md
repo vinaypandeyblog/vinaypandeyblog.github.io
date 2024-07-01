@@ -1,5 +1,5 @@
 ---
-title: Power Sector Round up
+title: Power Sector Round up - 1
 layout: post
 last_modified_at: 2024-04-28T16:55:00
 author: Vinay Pandey
@@ -8,7 +8,6 @@ tags:
 categories:
 - Compilations
 ---
-**Power Sector Round up**
 
 1. **Tariff hike** - As the polling in Uttarakhand ends, UERC issued tariff order on 26 April, average tariff goes up by 6.92%.
 

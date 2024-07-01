@@ -8,7 +8,6 @@ tags:
 categories:
 - Compilations
 ---
-**Power Sector Round up - 4**
 
 **Policy Interventions**
 1.MoP on 14th May has clarified that for projects set up under Section 63 of the Electricity Act 2003, wherein 'fuel cost pass through' is provided in PPA, the cost of biomass pellets shall also be pass through in the Energy Charge Rate. 
