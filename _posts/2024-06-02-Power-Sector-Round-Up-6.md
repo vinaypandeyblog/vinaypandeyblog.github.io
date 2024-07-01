@@ -6,7 +6,7 @@ author: Vinay Pandey
 tags:
 - Power Sector Roundup
 categories:
-- मध्यम
+- Compilations
 ---
 **Power Sector Round Up -6**
 

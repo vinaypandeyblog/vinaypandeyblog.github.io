@@ -4,14 +4,14 @@ import os
 import glob
 
 
-def get_length_category(content):
-    word_count = len(content.split())
-    if word_count < 220:
-        return "लघु"
-    elif word_count > 750:
-        return "दीर्घ"
-    else:
-        return "मध्यम"
+# def get_length_category(content):
+#     word_count = len(content.split())
+#     if word_count < 220:
+#         return "लघु"
+#     elif word_count > 750:
+#         return "दीर्घ"
+#     else:
+#         return "मध्यम"
 
 
 def get_matching_images(date, images_dir):
@@ -70,7 +70,7 @@ def process_chat_log(input_file, output_directory, images_directory):
             # tag_str = '\n- '.join(tags)
             tag_str = 'Power Sector Roundup'
 
-            length_category = get_length_category(content)
+            # length_category = get_length_category(content)
 
             filename = f"{date_time.strftime('%Y-%m-%d')}-{title.replace(' ', '-')}.md"
             filename = re.sub(r'[^\w\-.]', '', filename)
@@ -93,7 +93,7 @@ author: Vinay Pandey
 tags:
 - {tag_str}
 categories:
-- {length_category}
+- Compilations
 ---
 {content.strip()}
 
