@@ -8,6 +8,7 @@ tags:
 categories:
 - Compilations
 ---
+**Power Sector Roundup - 1**
 
 1. **Tariff hike** - As the polling in Uttarakhand ends, UERC issued tariff order on 26 April, average tariff goes up by 6.92%.
 

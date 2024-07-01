@@ -8,6 +8,7 @@ tags:
 categories:
 - Compilations
 ---
+**Power Sector Round Up - 6**
 
 **INNOVATIONS**
 1.South Korean major Hanwha’s group company Qcells is using technology developed by Israeli startup Lumet to change cost of solar panels manufactured out of China. Transforming complex process of Metallisation, new process coats plastic films surface with silver paste, presses it onto preheated cells and then produces thinner silver fingers to increase amount of light captured by each solar cell. After completion of Qcells $2.5 billion Georgia project, it may be able to compete with  Chinese panels which are currently half priced in comparison to US. 

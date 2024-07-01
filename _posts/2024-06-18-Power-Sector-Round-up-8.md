@@ -8,6 +8,8 @@ tags:
 categories:
 - Compilations
 ---
+**Power Sector Roundup - 8**
+
 **Policy**
 
 1.On 7th June MNRE has issued 57 page document on the ambitious PM Surya Ghar Yojana. Along with the detailed guidelines, the doc contains, Scheme coverage (2pages), Model draft agreement (Consumer &Vendor) (5 pages), Detailed Technical Specifications (20 pages), Model Net Metering Agreement (5 pages) and Draft MoU between MNRE & State/U (4 pages).
